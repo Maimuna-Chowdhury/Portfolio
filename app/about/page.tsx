@@ -37,7 +37,7 @@ export default function AboutPage() {
           {/* Future Goals */}
           <h2 className="text-2xl font-semibold mb-4">Future Goals</h2>
           <p className="text-lg text-gray-300 mb-4">
-            In the future, I aim to build my career in web development. I am particularly excited about exploring full-stack development, building dynamic web applications, and enhancing user experiences. I plan to deepen my expertise in technologies like React, Next.js, and Node.js. I'm also eager to contribute to open-source projects, collaborate with other developers, and stay updated with the latest trends in web technologies.
+            In the future, I aim to build my career in web development. I am particularly excited about exploring full-stack development, building dynamic web applications, and enhancing user experiences. I plan to deepen my expertise in technologies like React, Next.js, and Node.js. I&aposm also eager to contribute to open-source projects, collaborate with other developers, and stay updated with the latest trends in web technologies.
           </p>
         </div>
 
