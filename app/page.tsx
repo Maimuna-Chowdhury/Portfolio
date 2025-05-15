@@ -7,7 +7,7 @@ export default function HomePage() {
         {/* Left Side: Introduction + Stats */}
         <div className="flex flex-col justify-center space-y-8">
           <h1 className="text-4xl md:text-5xl font-bold leading-snug">
-  Hi! I'm <span className="text-transparent bg-clip-text bg-gradient-to-r from-blue-400 via-purple-500 to-pink-500">
+  Hi! I am <span className="text-transparent bg-clip-text bg-gradient-to-r from-blue-400 via-purple-500 to-pink-500">
     Maimuna Chowdhury 👋
   </span>
 </h1>
