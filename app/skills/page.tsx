@@ -1,4 +1,4 @@
-import { FaLaptopCode, FaDatabase, FaTools, FaFolder } from 'react-icons/fa'; // Importing icons
+import { FaLaptopCode, FaDatabase, FaTools} from 'react-icons/fa'; // Importing icons
 import { FaMicroscope } from 'react-icons/fa';
 export default function SkillsPage() {
   return (
