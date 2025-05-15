@@ -1,12 +1,12 @@
 import { FaLaptopCode, FaDatabase, FaTools, FaFolder } from 'react-icons/fa'; // Importing icons
-
+import { FaMicroscope } from 'react-icons/fa';
 export default function SkillsPage() {
   return (
     <main className="min-h-screen p-10 bg-gradient-to-br from-[#1a1a2e] to-[#2d0b00] text-white">
       <section className="max-w-5xl mx-auto text-center space-y-6">
-        <h1 className="text-4xl font-bold">Technical Competencies</h1>
+        <h1 className="text-4xl font-semibold text-blue-400">Skills and Interests</h1>
         <p className="text-gray-300 text-lg">
-          These are technical skills that I’ve acquired so far in my student life.
+          These are skills and research interests that I’ve acquired so far in my student life.
           
         </p>
 
@@ -52,14 +52,14 @@ export default function SkillsPage() {
           {/* Interests Section */}
           <div className="bg-[#2f1b3a] p-6 rounded-xl shadow-lg">
             <h2 className="text-xl font-semibold mb-2">
-              <FaFolder className="inline mr-2 text-2xl" /> Interests
+              <FaMicroscope className="inline mr-2 text-2xl" /> Research Interests
             </h2>
             <ul className="text-sm text-gray-300 list-disc list-inside">
-              <li>Software Engineering</li>
-              <li>Software Development</li>
-              <li>UI Development</li>
+              <li>Artificial Intelligence</li>
+              <li>Machine Learning</li>
               <li>Deep Learning</li>
-              <li>Data Visualization</li>
+              <li>Image Processing</li>
+              <li>LLM</li>
             </ul>
           </div>
         </div>
